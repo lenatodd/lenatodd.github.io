@@ -1,4 +1,4 @@
-![My Profile Picture](me.jpg)
+![My Profile Picture](lena.jpg)
 # Hi, I'm Lena Todd! 👋
 
 I am a 4th year undergraduate student at UC Berkeley studying Applied Mathematics and Data Science. Welcome to my portfolio!
