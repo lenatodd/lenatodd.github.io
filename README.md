@@ -1,4 +1,5 @@
-![My Profile Picture](lena.jpg)
+![My Profile Picture](<img width="439" height="655" alt="Screen Shot 2026-07-02 at 1 06 01 PM" src="https://github.com/user-attachments/assets/f5711a18-fe04-497d-bafb-223639c4d679" />
+)
 # Hi, I'm Lena Todd! 👋
 
 I am a 4th year undergraduate student at UC Berkeley studying Applied Mathematics and Data Science. Welcome to my portfolio!
