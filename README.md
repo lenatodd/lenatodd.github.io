@@ -14,7 +14,7 @@ Here is a short description about who I am and what I love to do.
 
 ## My Work & Projects:
 * **[CAL Health & Benefits Case Competition '26](https://docs.google.com/document/d/1Gl9e-aPeufzksvHtovxgAhHodN8tGYu8vEryFKIx_Fc/edit?usp=sharing)** - Final Submission of Actuarial Analysis and Recommendation
-* **[Finalist Presentation](https://docs.google.com/presentation/d/1Wx-TfGtVaVOEhjVGdb354Xk7PGH9KgeDIjBINrP0ptM/edit?usp=sharing)** - Finalist Presentation: Going Further into Depth About the Recommendation
+* **[Finalist Presentation](https://docs.google.com/presentation/d/1Wx-TfGtVaVOEhjVGdb354Xk7PGH9KgeDIjBINrP0ptM/edit?usp=sharing)** - Going Further in Depth About our Findings and Recommendations
 
 ## Connect with Me!
 * [LinkedIn](www.linkedin.com/in/lena-todd)
