@@ -4,11 +4,11 @@
 
 # Hi, I'm Lena Todd!
 
-I am a 4th year undergraduate student at **UC Berkeley** studying Applied Mathematics and Data Science. Welcome to my portfolio!
+I am an **aspiring actuary** and 4th year undergraduate student at **UC Berkeley** studying Applied Mathematics and Data Science. Welcome to my portfolio!
 
 ## About Me:
 Here is a short description about who I am and what I love to do. 
-* I'm currently working on finishing up my degree and studying for actuarial exam P which I plan to take this November. I have enjoyed learning conceptual mathematical analysis throughout my time at Berkeley, but I am super excited to start applying quantitative math to real world financial problems. 
+* I'm currently working on finishing up my degree and studying for actuarial Exam P (I just recently **passed** Exam FM!) which I plan to take this November. I have enjoyed learning conceptual mathematical analysis throughout my time at Berkeley, but I am super excited to start applying quantitative math to real world financial problems. 
 * Ask me all about bobbin lacing, snowboarding and volleyball!
 
 ## My Work & Projects:
