@@ -1,8 +1,16 @@
-<img src="https://github.com/user-attachments/assets/f5711a18-fe04-497d-bafb-223639c4d679" width="300" alt="Lena Todd">
+---
+title: "Lena Todd"
+description: "Applied Mathematics & Data Science Portfolio"
+theme: jekyll-theme-minimal
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f5711a18-fe04-497d-bafb-223639c4d679" width="220" style="border-radius: 50%;" alt="Lena Todd">
+</p>
 
 # Hi, I'm Lena Todd! 👋
 
-I am a 4th year undergraduate student at UC Berkeley studying Applied Mathematics and Data Science. Welcome to my portfolio!
+I am a 4th year undergraduate student at **UC Berkeley** studying Applied Mathematics and Data Science. Welcome to my portfolio!
 
 ## 👤 About Me
 Here is a short description about who I am and what I love to do. 
