@@ -1,8 +1,3 @@
----
-title: "Lena Todd"
-description: "Applied Mathematics & Data Science Portfolio"
-theme: jekyll-theme-minimal
----
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f5711a18-fe04-497d-bafb-223639c4d679" width="220" style="border-radius: 50%;" alt="Lena Todd">
