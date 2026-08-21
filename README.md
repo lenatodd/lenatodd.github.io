@@ -1,3 +1,8 @@
+---
+title: "Lena Todd Portfolio"
+description: "Welcome to my website!"
+---
+
 <img src="https://github.com/user-attachments/assets/f5711a18-fe04-497d-bafb-223639c4d679" width="300" alt="Lena Todd">
 
 # Hi, I'm Lena Todd! 👋
