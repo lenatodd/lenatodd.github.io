@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f5711a18-fe04-497d-bafb-223639c4d679" width="220" style="border-radius: 50%;" alt="Lena Todd">
+  <img src="https://github.com/user-attachments/assets/be3fad55-8cba-48a8-b0df-b1544f3e9d3a" width="220" style="border-radius: 50%;" alt="Lena Todd">
 </p>
 
 # Hi, I'm Lena Todd!
